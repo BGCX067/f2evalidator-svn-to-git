@@ -1,0 +1,5 @@
+content   f2evalidator                 chrome/content/
+skin      f2evalidator   classic/1.0   chrome/skin/
+locale    f2evalidator   zh-CN         chrome/locale/zh-CN/
+
+overlay chrome://browser/content/browser.xul chrome://f2evalidator/content/overlay.xul

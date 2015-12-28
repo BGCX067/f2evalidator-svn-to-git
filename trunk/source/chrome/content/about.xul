@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+
+<!DOCTYPE dialog SYSTEM "chrome://f2evalidator/locale/about.dtd">
+
+<dialog title="&about; F2E Validator" orient="vertical" autostretch="always" onload="sizeToContent()" buttons="accept" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <groupbox align="center" orient="horizontal">
+    <vbox>
+      <text value="F2E Validator" style="font-weight: bold; font-size: x-large;"/>
+      <text value="&version; 0.2.6"/>
+      <separator class="thin"/>
+      <text value="&createdBy;" style="font-weight: bold;"/>
+      <text value="cuimingda@gmail.com"/>
+      <text value="&contributor;" style="font-weight: bold;"/>
+      <text value="kavenyan@gmail.com"/>
+      <text value="zhouqicf@gmail.com"/>
+      <text value="jf.821118@gmail.com"/>
+      <text value="rabblerlau@gmail.com"/>
+      <text value="liuzhitao2000@gmail.com"/>
+      <text value="supershafeng@gmail.com"/>
+      <text value="daisyanddaisy@gmail.com"/>
+      <separator class="thin"/>
+    </vbox>
+  </groupbox>
+</dialog>

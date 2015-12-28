@@ -1,0 +1,12 @@
+#summary 包含F2E Validator中包含的所有规则
+
+= 口碑网 =
+ * *f2ev-channel* 调用口碑页头时要传递channel参数
+ * *f2ev-kxt* 页面中不应该包含内网口香糖服务器上的资源
+
+= 未归类 =
+ * *f2ev-blink* 避免使用blink类效果
+ * *f2ev-charset* 合理使用charset
+ * *f2ev-div* 检查div的数量，开始和结束标签是否配对
+ * *f2ev-keywords* 检查keywords中是否包含中文的逗号
+ * *f2ev-yk* 逐步淘汰YK框架，用K2框架取而代之

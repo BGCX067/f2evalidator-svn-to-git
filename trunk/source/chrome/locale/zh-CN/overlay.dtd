@@ -1,0 +1,8 @@
+<!ENTITY f2evalidator.label "Your localized menuitem">
+<!ENTITY f2evalidatorContext.label "Your Menuitem">
+<!ENTITY f2evalidatorContext.accesskey "Y">
+<!ENTITY f2evalidatorToolbarButton.label "Your Toolbar Button">
+<!ENTITY f2evalidatorToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY f2evalidatorSidebar.label "Your Sidebar">
+<!ENTITY f2evalidatorToolbar.name  "example">
+<!ENTITY f2evalidatorToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &f2evalidatorToolbar.name;">

@@ -1,0 +1,7 @@
+<!ENTITY prefwindow.title "F2E Validator设置">
+<!ENTITY pane1.title "设置">
+
+<!ENTITY prefOn.label "总开关">
+<!ENTITY prefUseTidy.label "启用Tidy校验">
+<!ENTITY prefRuleImage.label "检查图像">
+<!ENTITY prefRuleDoctype.label "检查doctype">

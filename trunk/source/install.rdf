@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+  
+    <em:id>{31b26b30-e7ef-11de-8a39-0800200c9a66}</em:id>
+    <em:type>2</em:type>
+    <em:creator>cuimingda@gmail.com</em:creator>
+    
+    <em:name>F2E Validator</em:name>
+    <em:description>Validator for Frontend Engineers</em:description>
+    <em:version>0.2.7</em:version>
+    
+    <em:aboutURL>chrome://f2evalidator/content/about.xul</em:aboutURL>
+    <em:optionsURL>chrome://f2evalidator/content/options.xul</em:optionsURL>
+    <em:homepageURL>http://f2evalidator.com/</em:homepageURL>
+    <em:iconURL>chrome://f2evalidator/skin/toolbar-button.png</em:iconURL>
+    
+    <em:contributor>kavenyan@gmail.com</em:contributor>
+    <em:contributor>zhouqicf@gmail.com</em:contributor>
+    <em:contributor>jf.821118@gmail.com</em:contributor>
+    <em:contributor>rabblerlau@gmail.com</em:contributor>
+    <em:contributor>liuzhitao2000@gmail.com</em:contributor>
+    <em:contributor>supershafeng@gmail.com</em:contributor>
+    <em:contributor>daisyanddaisy@gmail.com</em:contributor>
+
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- Firefox -->
+        <em:minVersion>3.5</em:minVersion>
+        <em:maxVersion>3.6.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    
+  </Description>
+</RDF>
